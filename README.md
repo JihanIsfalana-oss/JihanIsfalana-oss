@@ -24,12 +24,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JihanIsfalana-oss&show_icons=true&theme=tokyonight&hide_border=true" alt="Jihan's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JihanIsfalana-oss&theme=tokyonight&hide_border=true" alt="Jihan's GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JihanIsfalana-oss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
