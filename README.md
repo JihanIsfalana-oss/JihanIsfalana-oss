@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Jihan! 👋</h1>
 
-<h3 align="center">C++ Engineer | AI Enthusiast | Web Developer</h3>
+<h3 align="center">MLOps | AI Enthusiast | Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JihanIsfalana-oss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -10,7 +10,7 @@
 
 ### 👨‍💻 Tentang Saya
 * 🎓 Mahasiswa Teknik Informatika yang sedang antusias mendalami **Artificial Intelligence, LLM, dan NLP**.
-* 💻 Saat ini lagi sibuk ngembangin project **College Budgeting System** dan beberapa *web project* lain.
+* 💻 Saat ini lagi sibuk ngembangin project **Cognify** dan beberapa *web project* lain.
 * 🎒 Bagian dari program **GitHub Student Developer Pack**.
 * 🎸 Di luar ngoding, saya biasanya nge-band dan mendengarkan musik rock/emo/pop-punk!
 
