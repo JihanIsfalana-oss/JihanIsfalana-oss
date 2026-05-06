@@ -112,9 +112,9 @@ jihan = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jihanisfalana)
-[![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isfalana4525110@univpancasila.ac.id)
-[![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-6E57F7?style=for-the-badge&logo=vercel&logoColor=white)](https://collegebudgetingsystem.me)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/jihanisfalana](https://www.linkedin.com/in/mochammad-jihan-isfalana-b6141a384/))
+[![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wallbreker22@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-6E57F7?style=for-the-badge&logo=vercel&logoColor=white)](https://laju-perubahan.vercel.app)
 
 </div>
 
