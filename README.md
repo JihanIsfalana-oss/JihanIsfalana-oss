@@ -89,7 +89,7 @@ I'm a **Computer Science student** at Universitas Pancasila, Depok — passionat
 |---|---|---|
 | 🌾 **[Cognify](https://github.com/JihanIsfalana-oss/cognify-monorepo)** | Multimodal AI Hub for off-grid agriculture using OpenVINO, LLM & NLP to boost economic resilience in Indramayu | Python · OpenVINO · NLP · CV · ESP32 |
 | 💰 **[College Budgeting System](https://github.com/JihanIsfalana-oss/college_budgeting_system)** | Student financial tracking system with clean UI | TypeScript · React |
-| 📈 **[LajuPerubahan](https://github.com/JihanIsfalana-oss/LajuPerubahan)** | Web-based rate of change visualization tool | JavaScript |
+| 📈 **[LajuPerubahan](https://github.com/JihanIsfalana-oss/LajuPerubahan)** | This repository contains the official website for the band, built as a personal project that combines a love for music with hands-on web development skills. | JavaScript |
 | 🎵 **[Sonata Music School](https://github.com/JihanIsfalana-oss/sonata-music-school)** | Music school booking & management web app | JavaScript |
 
 ---
@@ -112,7 +112,7 @@ jihan = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mochammad-jihan-isfalana)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mochammad-jihan-isfalana-b6141a384/)
 [![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wallbreker22@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-6E57F7?style=for-the-badge&logo=vercel&logoColor=white)](https://laju-perubahan.vercel.app)
 
