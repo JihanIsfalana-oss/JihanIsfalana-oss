@@ -11,7 +11,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=JihanIsfalana-oss&label=Profile+Views&color=6E57F7&style=flat)](https://github.com/JihanIsfalana-oss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/jihanisfalana](https://www.linkedin.com/in/mochammad-jihan-isfalana-b6141a384/))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/flnisfalana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6E57F7?style=flat&logo=vercel&logoColor=white)](https://collegebudgetingsystem.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6E57F7?style=flat&logo=vercel&logoColor=white)](https://laju-perubahan.vercel.app)
 
 </div>
 
