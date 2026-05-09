@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science student** at Universitas Pancasila, Depok — passionate about building intelligent systems at the intersection of **AI, NLP, Computer Vision**, and **Web Development**.
+I'm a **Informatic Engineering student** at Universitas Pancasila, Depok — passionate about building intelligent systems at the intersection of **AI, NLP, Computer Vision**, **DevOps** and **Web Development**.
 
 - 🔬 Currently building **[Cognify](https://github.com/JihanIsfalana-oss/cognify-monorepo)** — a Multimodal AI Intelligence Hub for off-grid agriculture using **OpenVINO & LLM**
 - 🤖 Deep-diving into **Large Language Models, NLP pipelines**, and **MLOps** workflows
