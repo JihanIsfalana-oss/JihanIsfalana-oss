@@ -17,11 +17,13 @@
 
 ---
 
-![Naruto](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDdyN25mMTE3YXZ0ZWI3bWZpYnhhb3lvMzEydTdvanN6d3RrcnVmNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2y98KScHKeaQM/giphy.gif)
+<img src="Mochammad.png" alt="Banner Profle">
+
+---
 
 ## 🧑‍💻 About Me
 
-I'm a **Informatic Engineering student** at Universitas Pancasila, South Jakarta — passionate about building intelligent systems at the intersection of **AI, **MLOps** and **Web Development**.
+I'm a **Informatic Engineering student** at Universitas Pancasila, South Jakarta — passionate about building intelligent systems at the intersection of **AI**, **MLOps** and **Web Development**.
 
 - 🔬 Currently building **[Jay Digital Invitation](https://github.com/JihanIsfalana-oss/Jay-Digital-Invitation)** — Platform to create a digital invitation for wedding.
 - 🤖 Deep-diving into **Large Language Models, NLP pipelines**, **Web Development** and **MLOps** workflows
