@@ -32,9 +32,7 @@ I'm a **Informatic Engineering student** at Universitas Pancasila, South Jakarta
 - 🎸 Outside of coding: playing in a band & listening to rock / emo / pop-punk
 
 ---
-<div align="center">
 ![Naruto](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDdyN25mMTE3YXZ0ZWI3bWZpYnhhb3lvMzEydTdvanN6d3RrcnVmNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2y98KScHKeaQM/giphy.gif)
-</div>
 ---
 
 ## 🛠️ Tech Stack & Tools
