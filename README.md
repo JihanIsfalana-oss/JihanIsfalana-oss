@@ -17,16 +17,20 @@
 
 ---
 
+![Naruto](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDdyN25mMTE3YXZ0ZWI3bWZpYnhhb3lvMzEydTdvanN6d3RrcnVmNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2y98KScHKeaQM/giphy.gif)
+
 ## 🧑‍💻 About Me
 
-I'm a **Informatic Engineering student** at Universitas Pancasila, South Jakarta — passionate about building intelligent systems at the intersection of **AI, NLP, Computer Vision**, **MLOps** and **Web Development**.
+I'm a **Informatic Engineering student** at Universitas Pancasila, South Jakarta — passionate about building intelligent systems at the intersection of **AI, **MLOps** and **Web Development**.
 
-- 🔬 Currently building **[Cognify](https://github.com/JihanIsfalana-oss/cognify-monorepo)** — a Multimodal AI Intelligence Hub for off-grid agriculture using **OpenVINO & LLM**
-- 🤖 Deep-diving into **Large Language Models, NLP pipelines**, and **MLOps** workflows
+- 🔬 Currently building **[Jay Digital Invitation](https://github.com/JihanIsfalana-oss/Jay-Digital-Invitation)** — Platform to create a digital invitation for wedding.
+- 🤖 Deep-diving into **Large Language Models, NLP pipelines**, **Web Development** and **MLOps** workflows
 - 🎒 Member of the **GitHub Student Developer Pack**
 - 🌱 Always learning — currently exploring **FastAPI, Docker, and AI model deployment**
 - 🎸 Outside of coding: playing in a band & listening to rock / emo / pop-punk
 
+---
+![Naruto](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDdyN25mMTE3YXZ0ZWI3bWZpYnhhb3lvMzEydTdvanN6d3RrcnVmNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2y98KScHKeaQM/giphy.gif)
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -34,17 +38,16 @@ I'm a **Informatic Engineering student** at Universitas Pancasila, South Jakarta
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **AI / ML / Data**
 
-![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Github Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 **Web Development**
 
@@ -58,8 +61,8 @@ I'm a **Informatic Engineering student** at Universitas Pancasila, South Jakarta
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 ---
 
@@ -76,32 +79,14 @@ I'm a **Informatic Engineering student** at Universitas Pancasila, South Jakarta
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Cognify](https://github-readme-stats.vercel.app/api/pin/?username=JihanIsfalana-oss&repo=cognify-monorepo&theme=tokyonight&hide_border=true)](https://github.com/JihanIsfalana-oss/cognify-monorepo)
-[![College Budgeting System](https://github-readme-stats.vercel.app/api/pin/?username=JihanIsfalana-oss&repo=college_budgeting_system&theme=tokyonight&hide_border=true)](https://github.com/JihanIsfalana-oss/college_budgeting_system)
-
-</div>
-
-| Project | Description | Stack |
-|---|---|---|
-| 🌾 **[Cognify](https://github.com/JihanIsfalana-oss/cognify-monorepo)** | Multimodal AI Hub for off-grid agriculture using OpenVINO, LLM & NLP to boost economic resilience in Indramayu | Python · OpenVINO · NLP · CV · ESP32 |
-| 💰 **[College Budgeting System](https://github.com/JihanIsfalana-oss/college_budgeting_system)** | Student financial tracking system with clean UI | TypeScript · React |
-| 📈 **[LajuPerubahan](https://github.com/JihanIsfalana-oss/LajuPerubahan)** | This repository contains the official website for the band, built as a personal project that combines a love for music with hands-on web development skills. | JavaScript |
-| 🎵 **[Sonata Music School](https://github.com/JihanIsfalana-oss/sonata-music-school)** | Music school booking & management web app | JavaScript |
-
----
-
 ## 🎯 Current Focus
 
 ```python
 jihan = {
-    "currently_building": "Cognify — AI platform for Indonesian agriculture",
-    "learning":           ["FastAPI", "Docker", "LLM fine-tuning", "RAG pipelines"],
-    "interests":          ["MLOps", "NLP", "Computer Vision", "Edge AI"],
-    "ask_me_about":       ["AI/ML", "Python", "Web Dev", "OpenVINO"],
+    "currently_building": "Jay Digital Invitation — Platform Creation Digital Invitation",
+    "learning":           ["FastAPI", "Docker", "Web Development", "RAG pipelines"],
+    "interests":          ["MLOps", "NLP", "Computer Vision", "Fullstack Developer"],
+    "ask_me_about":       ["AI/ML", "Python", "Web Dev"],
     "fun_fact":           "I debug better with rock music playing in the background 🎸"
 }
 ```
