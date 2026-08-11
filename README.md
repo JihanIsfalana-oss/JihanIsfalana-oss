@@ -24,6 +24,7 @@
 ## 🧑‍💻 About Me
 
 I'm a **Informatic Engineering student** at Universitas Pancasila, South Jakarta — passionate about building intelligent systems at the intersection of **AI**, **MLOps** and **Web Development**.
+I'd Like to Learn Every **Knowledge**, and I Love to Learn **Technologies**.
 
 - 🔬 Currently building **[Jay Digital Invitation](https://github.com/JihanIsfalana-oss/Jay-Digital-Invitation)** — Platform to create a digital invitation for wedding.
 - 🤖 Deep-diving into **Large Language Models, NLP pipelines**, **Web Development** and **MLOps** workflows
@@ -42,6 +43,7 @@ I'm a **Informatic Engineering student** at Universitas Pancasila, South Jakarta
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+[![Java](https://shields.io)](https://java.com)
 
 **Markup Languages**
 
