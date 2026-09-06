@@ -43,7 +43,7 @@ I'd Like to Learn Every **Knowledge**, and I Love to Learn **Technologies**.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)]
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="30" height="30" alt="Java" style="background-color:rgb(100, 100, 100);">
 
 **Markup Languages**
